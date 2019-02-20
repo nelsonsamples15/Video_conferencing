@@ -1,0 +1,44 @@
+/*Custom Buttons*/
+.custom-btn-primary {
+	width: 200px;
+	height: 50px;
+	background-color: #0072FF;
+	color: #fff;
+	font-size: 18px;
+}
+
+.custom-btn-primary:hover {
+
+	background-color: #009AFF;
+	color: #fff;
+}
+
+.custom-btn-primary:active {
+
+	background-color: #009AFF;
+	color: #fff;
+}
+
+/*End Custom Buttons*/
+
+/*Containers*/
+.form-container {
+	padding: 10px;
+	margin-top: 20px;
+	background-color: #F7F7F9;
+	box-shadow: 0px 0px 20px 2px #0072FF;
+	border-radius: 10px;
+}
+
+.form-input {
+	height: 40px;
+	border-radius: 0px;
+}
+
+/*Customize padding and margins*/
+.padtop10 {
+	padding-top: 10px;
+}
+
+
+
